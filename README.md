@@ -19,8 +19,8 @@
 
 ## 1 Get to know the exam with exam-style questions
 
-   - [Follow the 4-Step plan] (https://skillbuilder.aws/exam-prep/solutions-architect-associate)
-   - [Review the exam guide] (https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
+   - [Follow the 4-Step plan](https://skillbuilder.aws/exam-prep/solutions-architect-associate)
+   - [Review the exam guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
    - Take the AWS Certification Official Practice Question Set to understand exam-style questions.
 
 ## 2 Refresh your AWS Knowledge and skills
@@ -38,7 +38,7 @@
 
 ## Ready to get AWS Certified?
 
-## [Schedule an Exam] (https://www.aws.training/certification)
+## [Schedule an Exam](https://www.aws.training/certification)
 
 ## Key FAQs to help you get started
 
@@ -53,7 +53,7 @@
 
 ## Are there any savings on exams if I already hold on active AWS Certifications?
 
-   - Yes. Once you earn one AWS Certification, you get 50% discount on your next AWS Certification exam. you can sign in in and access this discount in your AWS Certification Account (https://www.aws.training/certification/)
+   - Yes. Once you earn one AWS Certification, you get 50% discount on your next AWS Certification exam. you can sign in in and access this discount in your [AWS Certification Account] (https://www.aws.training/certification/)
 
 
    - All the Best !! Happy Learning
