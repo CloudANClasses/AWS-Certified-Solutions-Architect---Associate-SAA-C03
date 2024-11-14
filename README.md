@@ -42,6 +42,7 @@
 
 ## Key FAQs to help you get started
 
+
 ## Who should take this exam?
 
    - As per the exam guide at leat 1 year of hands-on experience designing cloud solutions that use AWS services.
@@ -54,6 +55,8 @@
 ## Are there any savings on exams if I already hold on active AWS Certifications?
 
    - Yes. Once you earn one AWS Certification, you get 50% discount on your next AWS Certification exam. you can sign in in and access this discount in your [AWS Certification Account](https://www.aws.training/certification)
+
+
 
 
    - All the Best !! Happy Learning
