@@ -1,5 +1,8 @@
 ## Day 3 AWS Billing & Account Management
 
+View and pay bills, analyze and govern your spending, and optimize your costs.
+
+
   - How to Use the AWS Management Console
   - Pricing Model of AWS, How AWS Charges
   - Understand the concept of Payments, Billings Preference
