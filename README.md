@@ -53,7 +53,7 @@
 
 ## Are there any savings on exams if I already hold on active AWS Certifications?
 
-   - Yes. Once you earn one AWS Certification, you get 50% discount on your next AWS Certification exam. you can sign in in and access this discount in your [AWS Certification Account] (https://www.aws.training/certification/)
+   - Yes. Once you earn one AWS Certification, you get 50% discount on your next AWS Certification exam. you can sign in in and access this discount in your [AWS Certification Account](https://www.aws.training/certification)
 
 
    - All the Best !! Happy Learning
