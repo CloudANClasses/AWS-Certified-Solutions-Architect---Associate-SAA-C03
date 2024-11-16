@@ -1,4 +1,4 @@
-## Day 7 Compute- Amazon Elastic Compute Cloud (EC2) Fundamentals
+## Day 8 Compute- Amazon Elastic Compute Cloud (EC2) Fundamentals
 Virtual Servers in the Cloud
 
 
@@ -8,9 +8,9 @@ Virtual Servers in the Cloud
 - Update, Upgrade, Repositories package via the Command line
 
 - Student work:
-- Write an Article & post it on LinkedIn Day 7 (Compute- Amazon Elastic Compute Cloud (EC2) Fundamentals)
+- Write an Article & post it on LinkedIn Day 8 (Compute- Amazon Elastic Compute Cloud (EC2) Fundamentals)
 
-[← Previous Day](../Day06/README.md) | [Next Day →](../Day08/README.md)
+[← Previous Day](../Day07/README.md) | [Next Day →](../Day09/README.md)
 
 - All the Best !! Happy Learning
 - CloudAN Classes
