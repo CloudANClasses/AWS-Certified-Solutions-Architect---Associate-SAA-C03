@@ -11,7 +11,7 @@
   - Introduction to Amazon Web Services (AWS)
   - Traditional (In House) vs Cloud Computing - Why Cloud Computing?
   - Service Models | IAAS |PAAS |SAAS in Cloud Computing
-  - Public, Private, Hybrid Deployment Models in AWS
+  - Public, Private, Hybrid Deployment Models in AWS [For Notes Click Here](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/types-of-cloud-computing.html)
   - How AWS Price charges (Networking, Storage, EC2)
   - AWS Global Infrastructure AWS Region, Availability Zone
   - Summary of Day 1 lecture
