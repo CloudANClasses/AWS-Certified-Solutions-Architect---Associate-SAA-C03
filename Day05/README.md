@@ -1,7 +1,7 @@
 ## Day 5 Identity & Access Management/ AWS CLI
 Securely manage access to services and resources
 
-- Apply the Multi Factor Authentication (MFA) in IAM
+- Apply the Multi Factor Authentication (MFA) in IAM [For Notes Click Here](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html?icmpid=docs_iam_console#enable-virt-mfa-for-own-iam-user)
   
 - How to create an EC2 instance with the help of AWS CLI
   
