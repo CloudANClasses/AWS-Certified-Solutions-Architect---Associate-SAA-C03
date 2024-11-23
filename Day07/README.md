@@ -5,7 +5,7 @@ Virtual Servers in the Cloud
   
 - Explain Images, AMI, Instance type, Security groups
   
-- Create an EC2 instanc of Ubuntu 22.04 & 24.04 LTS
+- Create an EC2 instanc of Ubuntu 22.04 & 24.04 LTS  [For Noes Click Here](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-instance-wizard.html)
 
 
 - Student work:
