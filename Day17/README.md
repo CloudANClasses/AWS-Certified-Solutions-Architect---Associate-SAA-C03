@@ -13,6 +13,19 @@
 
 - Public Subnent & Private Subnet in VPC
 
-- Today Class Notes (Click Here)[https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html]
+- Today Class Notes [Click Here](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+
+
+- Student work:
+- Write an Article & post it on LinkedInDay 17 Networking & Content Delivery: VPC (Isolated Cloud Resources)
+
+[← Previous Day](../Day16/README.md) | [Next Day →](../Day18/README.md)
+
+- All the Best !! Happy Learning
+- CloudAN Classes
+- Website: [https://www.cloudanclasses.com]
+- Email: info@cloudanclasses.com / cloudanclasses@gmail.com
+- Mob: 94649-47360 (Maninder Singh)
+
 
 
