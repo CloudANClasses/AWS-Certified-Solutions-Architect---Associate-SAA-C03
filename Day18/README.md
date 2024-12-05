@@ -3,17 +3,17 @@
 - Definition:
 - A VPC is an isolated portion of the AWS Cloud populated by AWS objects, such as Amazon EC2 instances. Mouse over a resource to highlight the related resources.
 
-- EC2 Global view option in AWS
+- Public Subnet & Private Subnet VPC in AWS (Virtual Private Network)
 
-- Explain VPC, Subnet, Internet Gateway, Route Tables in VPC
+- Access the Private Instance in AWS Using Bastion Hosts
 
-- Working of by Default VPC in AWS
+- Access the internet in Private instances using NAT Instances
 
-- Create your first VPC with VPC only and VPC more( Graph option in our AWS)
+- Access the internet in Private instances using NAT Gateway
 
-- Public Subnent & Private Subnet in VPC
+- AWS VPC Clean UP (Step wise)
 
-- Today Class Notes [Click Here](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+- Today Class Notes [Click Here](
 
 
 - Student work:
