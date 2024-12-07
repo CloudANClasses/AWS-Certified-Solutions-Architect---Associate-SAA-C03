@@ -9,10 +9,15 @@
   is part of Amazon RDS.
 
 
+- Explain Amazon Relational Database Service
+
+- Create the First Database in our AWS
+
+- Amazon RDS Connect to RDS Instances
 
 
 - Student work:
-- Write an Article & post it on LinkedIn Day 29 Amazon Simple Notification Service (SES)
+- Write an Article & post it on LinkedIn Day 30 Amazon Simple Notification Service (SES)
 
 [← Previous Day](../Day29/README.md) | [Next Day →](../Day31/README.md)
 
