@@ -1,4 +1,4 @@
-## Day 28 Amazon Simple Notification Service (SES)
+## Day 29 Amazon Simple Notification Service (SES)
 
 - Definition
   
@@ -11,9 +11,9 @@
 - Sending the Mobile SMS Notification in SES
 
 - Student work:
-- Write an Article & post it on LinkedIn Day 28 Amazon Simple Notification Service (SES)
+- Write an Article & post it on LinkedIn Day 29 Amazon Simple Notification Service (SES)
 
-[← Previous Day](../Day27/README.md) | [Next Day →](../Day29/README.md)
+[← Previous Day](../Day28/README.md) | [Next Day →](../Day30/README.md)
 
 - All the Best !! Happy Learning
 - CloudAN Classes
