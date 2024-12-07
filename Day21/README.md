@@ -1,7 +1,8 @@
 ## Day 21 Networking & Content Delivery - CloudFront
 
 - Definition
-Amazon CloudFront speeds up distribution of your static and dynamic web content, such as .html, .css, .php, image, and media files. When users request your content, CloudFront delivers it through a worldwide network of edge locations that provide low latency and high performance.
+- Amazon CloudFront speeds up distribution of your static and dynamic web content, such as .html, .css, .php, image, and media files. When users 
+  request your content, CloudFront delivers it through a worldwide network of edge locations that provide low latency and high performance.
 
 
 - Steps to Create a First Distribution with EC2 instances? Explain CloudFront
