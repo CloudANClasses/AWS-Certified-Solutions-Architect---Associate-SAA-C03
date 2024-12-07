@@ -9,6 +9,11 @@
   is part of Amazon RDS.
 
 
+- AWS Aurora Database - Create First Aurora Instance
+
+- Aurora Endpoints Reader, writer,Instance, Custom Endpoints
+
+- Delete Aurora Database - Delete Read Replica
 
 
 - Student work:
