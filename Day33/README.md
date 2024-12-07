@@ -9,6 +9,13 @@
   is part of Amazon RDS.
 
 
+- Amazon DynamoDB Create a Table in DynamoDB how Partition key works
+
+- What is Sort key, What is the use of Sort Key in AWS
+
+- Read & Write Capacity Units in DynamoDB
+
+- Local & Secondary Index in Amazon DynamoDB
 
 
 - Student work:
