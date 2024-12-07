@@ -12,7 +12,7 @@
 
 - Email Service how Emails End Up in Spam & how to Prevent it
 
-- 
+  
 - Student work:
 - Write an Article & post it on LinkedIn Day 27 Amazon Simple Notification Service (SES)
 
