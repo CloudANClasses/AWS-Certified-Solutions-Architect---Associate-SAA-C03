@@ -8,7 +8,11 @@
   relational database engine that's built for the cloud and compatible with MySQL and PostgreSQL. Amazon Aurora 
   is part of Amazon RDS.
 
+- Read Replica in RDS steps to create the Read Replica
 
+- RDS Multi Availability Zone AZ in AWS
+
+- Amazon RDS Delete RDS, ReadReplica and Proxy in AWS
 
 
 - Student work:
