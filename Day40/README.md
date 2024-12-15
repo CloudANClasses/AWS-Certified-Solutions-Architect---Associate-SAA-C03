@@ -9,7 +9,7 @@
 - 
 
 - Student work:
-- Write an Article & post it on LinkedIn Day 39
+- Write an Article & post it on LinkedIn Day 40
 - [← Previous Day](../Day39/README.md) | [Next Day →](../Day41/README.md)
 
 - All the Best !! Happy Learning
